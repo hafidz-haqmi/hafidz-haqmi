@@ -1,16 +1,24 @@
-## Hi there 👋
+### About Me:  
 
-<!--
-**hafidz-haqmi/hafidz-haqmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a information systems student who's passionate to learn coding !!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center">CONNECT WITH ME</h4>
+<table align="center">
+  <tr>
+    <td align="center" style="padding: 0 15px;">
+      <a href='https://www.linkedin.com/in/hafidz-haqmi/'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="linkedin" alt="linkedin" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 0 15px;">
+      <a href="https://www.facebook.com/">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="facebook" alt="facebook" width="55" height="55"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 0 15px;">
+      <a href="https://discord.com/">
+        <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="discord" alt="discord" width="55" height="55"/>
+      </a>
+    </td>
+  </tr>
+</table>
