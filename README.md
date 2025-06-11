@@ -1,6 +1,6 @@
 ### About Me:  
 
-I'm a information systems student who's passionate to learn coding !!
+I'm an information systems student who's passionate to learn coding !!
 
 <h4 align="center">CONNECT WITH ME</h4>
 <table align="center">
