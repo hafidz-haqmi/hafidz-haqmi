@@ -4,7 +4,7 @@ Hi, I'm Hafidz! 👋
 
 🎓 2nd-Year Information Systems Student at Universiti Teknologi PETRONAS (UTP)
 
-📊 Data Analytics Enthusiast | Passionate about exploring data, writing clean SQL queries, and building impactful visualizations (Tableau / Power BI).
+📊 Data Analytics Enthusiast | Passionate about exploring data, writing clean SQL queries, and building impactful visualizations.
 
 💡 Interested in data analytics, database management, and hands-on IT projects.
 
